@@ -1,0 +1,17 @@
+{
+  "expo": {
+    "sdkVersion": "27.0.0",
+  
+    "loading": {
+      "backgroundColor": "#ffffff",
+      "icon": "./src/assets/logo.png"
+    },
+    "orientation": "portrait",
+    "version": "1.0.0",
+    "privacy": "public",
+    "name": "mamapochitai",
+    "slug": "mamapochitai"
+    },
+"name": "mamapochitai",
+"displayName": "Mamapochitai"
+}
